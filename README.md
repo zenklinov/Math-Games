@@ -37,7 +37,7 @@ To run this game, you'll need the following installed on your system:
 1. **Clone the Repository** (or download the source code):
 
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/zenklinov/Math-Games.git
 cd your-repository-name
 ```
 
