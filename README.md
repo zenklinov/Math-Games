@@ -54,7 +54,7 @@ pip install kivy
 Execute the main Python script from your terminal:
 
 ```bash
-python file_name.py
+python MathGameApp.py
 ```
 > 🔁 **Note:** Replace `file_name.py` with the actual name of the main Python script in your project (e.g., `main.py`).
 
